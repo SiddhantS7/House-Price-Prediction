@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction using Linear Regression
+# 🏠 House Price Prediction using Linear Regression(Single Variable)
 
 ## 📌 Overview
 
